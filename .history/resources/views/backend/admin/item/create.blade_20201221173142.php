@@ -646,7 +646,7 @@ label{display: block;padding: 20px 0 5px 0;}
     </div>
 
 @endsection
-{!! $html_data !!}
+ht
 @section('scripts')
     <!-- Make sure you put this AFTER Leaflet's CSS -->
     <script src="{{ asset('frontend/vendor/leaflet/leaflet.js') }}"></script>
